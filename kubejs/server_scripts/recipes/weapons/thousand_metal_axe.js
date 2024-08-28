@@ -1,13 +1,12 @@
 event.shaped(
-    Item.of('minecraft:stone', 3), // arg 1: output
+    Item.of('minecraft:stone', 3), 
     [
-      'A B',
-      ' C ', // arg 2: the shape (array of strings)
-      'B A'
+      'ABA',
+      'BAB', 
+      ' B'
     ],
     {
       A: 'minecraft:andesite',
-      B: 'minecraft:diorite',  //arg 3: the mapping object
-      C: 'minecraft:granite'
+      B: 'minecraft:diorite'  
     }
   )
