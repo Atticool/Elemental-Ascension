@@ -1,3 +1,3 @@
 StartupEvents.registry('item', event => {
-    sdasd
+    event.create('thousand_metal_ingot');
 })
