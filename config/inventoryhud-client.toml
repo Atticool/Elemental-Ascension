@@ -9,11 +9,7 @@
 	#Range: 0 ~ 100
 	invAlpha = 0
 	#Toggle on by default
-<<<<<<< HEAD
-	byDefault = false
-=======
 	byDefault = true
->>>>>>> c15a9c46ce52ee6d67befebca4b44d5c74d4832f
 	#Animate recently picked up items
 	animatedInv = false
 	#Hide background if inventory is empty
