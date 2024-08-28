@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Default config file that will be copied to local\ftblibrary-client.snbt if it doesn't exist!
+=======
+# Default config file that will be copied to local/ftblibrary-client.snbt if it doesn't exist!
+>>>>>>> c15a9c46ce52ee6d67befebca4b44d5c74d4832f
 # Just copy any values you wish to override in here!
 
 { }
