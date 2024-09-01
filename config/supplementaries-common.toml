@@ -181,10 +181,10 @@
 
 		#This is a map of special blocks that can be cleaned with soap
 		[functional.soap.special_blocks]
-			"minecraft:sticky_piston" = "minecraft:piston"
-			"quark:dirty_glass_pane" = "minecraft:glass_pane"
-			"quark:dirty_glass" = "minecraft:glass"
 			"#alexscaves:cave_paintings" = "alexscaves:smooth_limestone"
+			"quark:dirty_glass_pane" = "minecraft:glass_pane"
+			"minecraft:sticky_piston" = "minecraft:piston"
+			"quark:dirty_glass" = "minecraft:glass"
 
 	[functional.present]
 		enabled = true

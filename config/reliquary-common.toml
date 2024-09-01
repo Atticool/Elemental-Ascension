@@ -117,22 +117,22 @@ mobDropsEnabled = true
 	[items.glacialStaff]
 		#Number of snowballs the staff can hold
 		#Range: 0 ~ 9999
-		snowballLimit = 250
+		snowballLimit = 9999
 		#Number of snowballs it costs when the staff is used
 		#Range: 0 ~ 3
-		snowballCost = 1
+		snowballCost = 0
 		#Number of snowballs that get added to the staff per one that's consumed from player's inventory
 		#Range: 1 ~ 3
-		snowballWorth = 1
+		snowballWorth = 3
 		#The damage that snowballs cause
 		#Range: 0 ~ 6
-		snowballDamage = 3
+		snowballDamage = 6
 		#The damage bonus against entities that are immune to fire
 		#Range: 0 ~ 6
-		snowballDamageBonusFireImmune = 3
+		snowballDamageBonusFireImmune = 6
 		#The damage bonus against blaze
 		#Range: 0 ~ 12
-		snowballDamageBonusBlaze = 6
+		snowballDamageBonusBlaze = 12
 
 	#Handgun settings
 	[items.handgun]
@@ -189,22 +189,22 @@ mobDropsEnabled = true
 	[items.iceMagusRod]
 		#Number of snowballs the rod can hold
 		#Range: 0 ~ 9999
-		snowballLimit = 250
+		snowballLimit = 9999
 		#Number of snowballs it costs when the rod is used
 		#Range: 0 ~ 3
-		snowballCost = 1
+		snowballCost = 0
 		#Number of snowballs that get added to the rod per one that's consumed from player's inventory
 		#Range: 1 ~ 3
-		snowballWorth = 1
+		snowballWorth = 3
 		#The damage that snowballs cause
 		#Range: 0 ~ 4
-		snowballDamage = 2
+		snowballDamage = 3
 		#Damage bonus against fire immune mobs
 		#Range: 0 ~ 4
-		snowballDamageBonusFireImmune = 2
+		snowballDamageBonusFireImmune = 3
 		#Damage bonus against blaze
 		#Range: 0 ~ 8
-		snowballDamageBonusBlaze = 4
+		snowballDamageBonusBlaze = 6
 
 	#Infernal Chalice settings
 	[items.infernalChalice]
@@ -316,28 +316,28 @@ mobDropsEnabled = true
 	[items.pyromancerStaff]
 		#Number of fire charges the staff can hold
 		#Range: 0 ~ 9999
-		fireChargeLimit = 250
+		fireChargeLimit = 9999
 		#Number of fire charges used when the staff is fired
 		#Range: 0 ~ 3
-		fireChargeCost = 1
+		fireChargeCost = 0
 		#Number of fire charges that get added to the staff per one that's consumed from player's inventory
 		#Range: 1 ~ 3
-		fireChargeWorth = 1
+		fireChargeWorth = 3
 		#Number of fire charges added to the staff per one that was shot by ghast and gets absorbed by the staff
 		#Range: 0 ~ 3
-		ghastAbsorbWorth = 1
+		ghastAbsorbWorth = 3
 		#Number of blaze powder the staff can hold
 		#Range: 0 ~ 9999
-		blazePowderLimit = 250
+		blazePowderLimit = 9999
 		#Number of blaze powder used when staff is fired
 		#Range: 0 ~ 3
-		blazePowderCost = 1
+		blazePowderCost = 0
 		#Number of blaze powder that gets added to the staff per one that's consumed from player's inventory
 		#Range: 1 ~ 3
-		blazePowderWorth = 1
+		blazePowderWorth = 3
 		#Number of blaze powder added to the staff per one fireball that was shot by blaze and gets absorbed by the staff
 		#Range: 0 ~ 3
-		blazeAbsorbWorth = 1
+		blazeAbsorbWorth = 3
 
 	#Rending Gale settings
 	[items.rendingGale]

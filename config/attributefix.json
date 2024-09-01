@@ -370,7 +370,7 @@
         "value": 0
       },
       "max": {
-        "default": 20,
+        "default": 100,
         "value": 1000000
       }
     },
@@ -557,7 +557,7 @@
         "value": 0
       },
       "max": {
-        "default": 30,
+        "default": 200,
         "value": 1000000
       }
     },
@@ -779,6 +779,28 @@
       "max": {
         "default": 10,
         "value": 10
+      }
+    },
+    "curseofpandora:spell_tolerance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
+    "curseofpandora:reality_index": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
       }
     }
   }
